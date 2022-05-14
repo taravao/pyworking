@@ -6,3 +6,4 @@ zkousim treti upravu
 ctvrta uprava
 pata uprava
 sesta uprava
+sedma uprava
